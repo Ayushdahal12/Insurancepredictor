@@ -12,16 +12,7 @@ project/
 └── requirements.txt  ← Python packages
 ```
 
----
 
-1. Create account at https://huggingface.co
-2. Click **New Space** → Choose **Gradio** SDK
-3. Upload these files:
-   - `app.py`
-   - `model.pkl`
-   - `requirements.txt`
-4. Wait ~2 minutes for build
-5. Share the public link: `https://your-space-name.hf.space`
 
 ---
 
